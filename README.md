@@ -42,8 +42,9 @@ Scan, exploit, and conquer vulnerable parameters in real time.
 
 ## 📸 Screenshot
 
-![screenshot](https://user-images.githubusercontent.com/123456789/placeholder.png)
-> *Scan result with SQLi detection alerts and generated report.html.*
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3A2dms4N3F6eXJubzE2dHhpN2UydXV2NGYwcjduNHpzdG53cHByayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VXemWL83bMJXABeIP5/giphy.gif" width="200" alt="Cyber Hacker Animation" />
+</div>
 
 ---
 
@@ -184,12 +185,14 @@ Follow @kongali1720 buat diskusi dan update seru lainnya 🔥
 
 ---
 <section id="coming-soon" style="text-align: center; margin-top: 40px;">
-  <h2>🧪 Coming Soon</h2>
-  <ul style="list-style: none; padding-left: 0;">
-    <li>🔍 AI tools untuk cari kerja otomatis</li>
-    <li>📊 Analisa data pake AI</li>
+  <h2 style="margin-bottom: 20px;">🧪 Coming Soon</h2>
+  <ul style="list-style: none; padding-left: 0; margin: 0;">
+    <li style="margin-bottom: 10px; font-size: 1.1rem;">🔍 AI tools untuk cari kerja otomatis</li>
+    <li style="font-size: 1.1rem;">📊 Analisa data pake AI</li>
   </ul>
 </section>
+
+
 
 <div class="twitter-badge" style="text-align: center; margin-top: 20px;">
   <a href="https://twitter.com/kongali1720" target="_blank" rel="noopener noreferrer" aria-label="Follow kongali1720 on Twitter">
